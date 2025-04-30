@@ -1,6 +1,6 @@
 # 输入数据集目录结构
 <pre>
-iot-23-gate
+dataset
 ├─train
 │  ├─benign
 │  │  ├─ 1.pcap
@@ -20,3 +20,4 @@ iot-23-gate
         ├─ 2.pcap
         └─ n.pcap
 </pre>
+可以做二分类，也可以做多分类
